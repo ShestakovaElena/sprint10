@@ -1,1 +1,1 @@
-Ссылка на проект (ShestakovaElena.github.io/sprint10)
+Ссылка на проект https://shestakovaelena.github.io/sprint10/
